@@ -1,11 +1,17 @@
 # 💫 About Me:
 Hello, I am Arpit Goyal 👋
 I am a student developer focused on **full-stack development, backend engineering, Data Structures & Algorithms, and open-source development**. I enjoy learning by building real-world projects, solving problems, and understanding how systems work behind the scenes.
+
 My current stack includes **JavaScript, Python, React, Node.js, Express.js, MongoDB, PostgreSQL, and Prisma**. I am continuously strengthening my backend and database knowledge while working with APIs, authentication, server-side applications, and modern development tools.
+
 I also enjoy **Data Structures & Algorithms** and regularly practice problem-solving to improve my ability to break complex problems into smaller, efficient solutions.
+
 A major part of my learning journey is contributing to **open-source projects**. I enjoy exploring existing codebases, understanding unfamiliar systems, fixing issues, and building features that solve real problems.
+
 I believe good developers are built through **consistent practice, curiosity, and a willingness to understand the "why" behind the code** rather than simply memorizing solutions.
+
 🚀 **Currently:** Building projects, contributing to open source, strengthening backend development, and exploring new technologies.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arpit_goyal.13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpit-goyal-766809369) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpitg1306@gmail.com) 
